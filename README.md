@@ -1,12 +1,10 @@
-# The conference bible
+# The conference guide
 
 > **Please note:**
-> *This document is still a work in progress. Feel free to [contribute](#contributing), or [suggest changes using the issue tracker](https://github.com/ScottMcGready/the-conference-bible/issues).*
+> *This document is a continual work in progress. Feel free to [contribute](#contributing), or [suggest changes using the issue tracker](https://github.com/ScottMcGready/the-conference-guide/issues).*
 
 
-This collection of documents is meant to serve as a guide for anyone wanting to run their own conference. Although these documents are heavily focused towards cyber security conferences, many of the concepts can be applied to non-cyber security conferences and smaller meet-ups. It's not intended as a defacto standard – many conferences benefit from being delightfully weird and different, breaking the mould on traditional setups. This collection of documents was written to hopefully make the process of organising and running a conference easier for everyone, but that doesn't mean you have to follow all of the advice to the letter otherwise the conference will fail. 
-
-It's a bible, not a gospel.
+This collection of documents is meant to serve as a guide for anyone wanting to run their own conference. Although these documents are heavily focused towards cyber security conferences, many of the concepts can be applied to non-cyber security conferences and smaller meet-ups. It's not intended as a defacto standard – many conferences benefit from being delightfully weird and different, breaking the mould on traditional setups. This collection of documents was written to hopefully make the process of organising and running a conference easier for everyone, but that doesn't mean you have to follow all of the advice to the letter otherwise the conference will fail.
 
 ## Why run a conference?
 ![y tho](https://i.kym-cdn.com/entries/icons/original/000/022/978/y_tho_meme.jpg)
@@ -56,7 +54,7 @@ Documentation is split into the following sections:
 
 ## Contributing
 
-Contributing to this document is very welcome and encouraged. To make edits, [fork this repository](https://github.com/ScottMcGready/the-conference-bible/fork), make your changes, and submit a Pull Request for review.
+Contributing to this document is very welcome and encouraged. To make edits, [fork this repository](https://github.com/ScottMcGready/the-conference-guide/fork), make your changes, and submit a Pull Request for review.
 
 ## As used by
 
@@ -65,4 +63,4 @@ Contributing to this document is very welcome and encouraged. To make edits, [fo
 - [Hack Thursday](https://hackthurs.day)
 - [Hack Glasgow](https://hackglasgow.live)
 
-If you've found the guide useful, or have used it (or any advice I or the other contributors have given in the past) to help run your conference, please reach out and we'll happily add your conference or meet-up here.
+If you've found the guide useful, or have used it (or any advice I, or the other contributors, have given in the past) to help run your conference, please reach out and we'll happily add your conference or meet-up here.
